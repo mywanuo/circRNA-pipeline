@@ -29,4 +29,3 @@ ls
 /opt/starchip/starchip-circles.pl star_dir.txt params.txt
 ./Step1.sh && ./Step2.sh
 rm Step1.sh Step2.sh params.txt star_dir.txt
-

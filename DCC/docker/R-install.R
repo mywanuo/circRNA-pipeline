@@ -1,0 +1,8 @@
+install.packages("gplots")
+source('http://bioconductor.org/biocLite.R')
+biocLite()
+biocLite("limma")
+biocLite("edgeR")
+#install.packages("devtools")
+#require(devtools)
+#install_github('dieterich-lab/CircTest')

@@ -1,0 +1,6 @@
+readsCutoff = 5
+minSubjectLimit = 1
+do_splice = True
+cpmCutoff = 0
+subjectCPMcutoff = 0
+annotate = true
